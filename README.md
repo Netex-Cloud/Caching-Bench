@@ -9,7 +9,7 @@ Create a pull request with very basic webserver caching configuration. Or combin
 
 # Method
 
-Github actions will bootstrap web servers in docker containers. Than a local Jmeter program simulates a traffic. A script commits results to repository.
+Github actions will bootstrap web servers in docker containers. Than a local Jmeter program simulates a little traffic. A script commits results to repository.
 
 # Thanks
 
